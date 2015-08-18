@@ -1,4 +1,4 @@
-syndication (4:15.07.90-0ubuntu1) UNRELEASED; urgency=medium
+syndication (4:15.07.90-0ubuntu1) wily; urgency=medium
 
   [ Harald Sitter ]
   * Initial release
@@ -6,4 +6,4 @@ syndication (4:15.07.90-0ubuntu1) UNRELEASED; urgency=medium
   [ Jonathan Riddell ]
   * new upstream beta release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 13 Aug 2015 11:49:58 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 12:35:21 +0100
