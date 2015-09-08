@@ -19,7 +19,7 @@ Package: libkf5syndication-dev
 Section: libdevel
 Architecture: any
 Multi-Arch: foreign
-Depends: libkf5syndication5 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5syndication5 (= ${binary:Version}), qtbase5-dev, ${misc:Depends}
 Description: parser library for RSS and Atom feeds - development files
  Syndication is a parser library for RSS and Atom feeds. It offers a unified,
  format-agnostic view on the parsed feed, so that the using application does
