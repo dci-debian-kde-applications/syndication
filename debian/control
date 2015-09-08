@@ -1,0 +1,51 @@
+Source: syndication
+Section: libs
+Priority: optional
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Build-Depends: cmake (>= 2.8.12~),
+               debhelper (>= 9),
+               extra-cmake-modules (>= 5.12.0~),
+               kio-dev (>= 5.12.0~),
+               libkf5codecs-dev (>= 5.12.0~),
+               pkg-kde-tools (>> 0.15.15)
+Standards-Version: 3.9.6
+XS-Testsuite: autopkgtest
+Homepage: https://projects.kde.org/projects/kde/pim/syndication
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/applications/syndication.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/applications/syndication.git
+
+Package: libkf5syndication-dev
+Section: libdevel
+Architecture: any
+Multi-Arch: foreign
+Depends: libkf5syndication5 (= ${binary:Version}), ${misc:Depends}
+Description: parser library for RSS and Atom feeds - development files
+ Syndication is a parser library for RSS and Atom feeds. It offers a unified,
+ format-agnostic view on the parsed feed, so that the using application does
+ not need to distinguish between feed formats.
+ .
+ This package contains the development files.
+
+Package: libkf5syndication5
+Architecture: any
+Multi-Arch: same
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: parser library for RSS and Atom feeds
+ Syndication is a parser library for RSS and Atom feeds. It offers a unified,
+ format-agnostic view on the parsed feed, so that the using application does
+ not need to distinguish between feed formats.
+ .
+ This package is part of the KDE Development Platform PIM libraries module.
+
+Package: libkf5syndication-dbg
+Section: debug
+Priority: extra
+Architecture: any
+Multi-Arch: same
+Depends: libkf5syndication5 (= ${binary:Version}), ${misc:Depends}
+Description: parser library for RSS and Atom feeds - development files
+ Syndication is a parser library for RSS and Atom feeds. It offers a unified,
+ format-agnostic view on the parsed feed, so that the using application does
+ not need to distinguish between feed formats.
+ .
+ This package contains the debug symbols.
