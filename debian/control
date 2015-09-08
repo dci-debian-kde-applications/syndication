@@ -7,7 +7,8 @@ Build-Depends: cmake (>= 2.8.12~),
                extra-cmake-modules (>= 5.12.0~),
                kio-dev (>= 5.12.0~),
                libkf5codecs-dev (>= 5.12.0~),
-               pkg-kde-tools (>> 0.15.15)
+               pkg-kde-tools (>> 0.15.15),
+               qtbase5-dev
 Standards-Version: 3.9.6
 XS-Testsuite: autopkgtest
 Homepage: https://projects.kde.org/projects/kde/pim/syndication
