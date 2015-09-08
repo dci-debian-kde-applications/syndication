@@ -1,8 +1,8 @@
-syndication (15.08.0-1~) UNRELEASED; urgency=medium
+syndication (15.08.0-1) experimental; urgency=medium
 
   * Initial Debian release.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 15:51:36 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 19:10:48 +0200
 
 syndication (15.08.0-0ubuntu1) wily; urgency=medium
 
