@@ -1,8 +1,8 @@
-syndication (15.08.1-1~) UNRELEASED; urgency=medium
+syndication (15.08.1-1) experimental; urgency=medium
 
   * New upstream release (15.08.1).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Sep 2015 19:50:59 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 03:16:29 +0200
 
 syndication (15.08.0-1) experimental; urgency=medium
 
