@@ -37,16 +37,3 @@ Description: parser library for RSS and Atom feeds
  not need to distinguish between feed formats.
  .
  This package is part of the KDE Development Platform PIM libraries module.
-
-Package: libkf5syndication-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Multi-Arch: same
-Depends: libkf5syndication5 (= ${binary:Version}), ${misc:Depends}
-Description: parser library for RSS and Atom feeds - development files
- Syndication is a parser library for RSS and Atom feeds. It offers a unified,
- format-agnostic view on the parsed feed, so that the using application does
- not need to distinguish between feed formats.
- .
- This package contains the debug symbols.
