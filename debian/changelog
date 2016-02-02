@@ -1,9 +1,16 @@
-syndication (15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+syndication (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
-  * Fixing install file 
+  * Merge with Debian master
+  * Fixing install file
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 23:57:26 +0000
+
+syndication (15.12.0-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:23:17 +0100
 
 syndication (15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -12,11 +19,23 @@ syndication (15.08.2-0ubuntu1) wily; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 13:09:17 +0100
 
+syndication (15.08.1-1) experimental; urgency=medium
+
+  * New upstream release (15.08.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 03:16:29 +0200
+
 syndication (15.08.1-0ubuntu1) wily; urgency=medium
 
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:48:34 +0100
+
+syndication (15.08.0-1) experimental; urgency=medium
+
+  * Initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 19:10:48 +0200
 
 syndication (15.08.0-0ubuntu1) wily; urgency=medium
 
