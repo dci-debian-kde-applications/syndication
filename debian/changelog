@@ -1,3 +1,13 @@
+syndication (16.04.0-1~1.gbpfd87e9) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @fd87e950b7f57296fbd7a68d80eb5a862026953f **
+
+  * Bump Standards-Version to 3.9.8
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:06:31 +0200
+
 syndication (15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
