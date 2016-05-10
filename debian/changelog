@@ -1,6 +1,6 @@
-syndication (16.04.0-1~2.gbp4b2792) UNRELEASED; urgency=medium
+syndication (16.04.1-1~1.gbp8533fe) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @4b2792e82c32675068d6518697fe7ed78723120d **
+  ** SNAPSHOT build @8533fed8e41c7a83d655f8d6523de67bf71856b8 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @fd87e950b7f57296fbd7a68d80eb5a862026953f **
@@ -14,8 +14,9 @@ syndication (16.04.0-1~2.gbp4b2792) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 23 Apr 2016 11:40:34 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 22:05:14 +0200
 
 syndication (15.12.0-1) experimental; urgency=medium
 
