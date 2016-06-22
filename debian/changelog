@@ -1,10 +1,8 @@
-syndication (16.04.2-1~1.gbpedf82d) UNRELEASED; urgency=medium
+syndication (16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @edf82d088cf049e1ee28330792ea7328474ffe0f **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 04:06:18 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 16:26:09 +0200
 
 syndication (16.04.1-1) unstable; urgency=medium
 
