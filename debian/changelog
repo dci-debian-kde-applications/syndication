@@ -1,3 +1,11 @@
+syndication (16.04.3-1~1.gbpbc9450) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @bc9450b61f8c5b7d2440eae5269dc9dedeb99075 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 22:05:21 +0200
+
 syndication (16.04.2-1) unstable; urgency=medium
 
   * New upstream release.
