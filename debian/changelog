@@ -1,3 +1,9 @@
+syndication (16.07.90-0) UNRELEASED; urgency=medium
+
+  * Neon build
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 11 Aug 2016 17:22:26 +0100
+
 syndication (16.04.2-1) unstable; urgency=medium
 
   * New upstream release.
