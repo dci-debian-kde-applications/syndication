@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 15.07.90 amd64
+# SymbolsHelper-Confirmed: 16.08.0 amd64
 libKF5Syndication.so.5 libkf5syndication5 #MINVER#
  _ZN11Syndication10PersonImplC1ERK7QStringS3_S3_@Base 15.07.90
  _ZN11Syndication10PersonImplC1Ev@Base 15.07.90
@@ -250,7 +250,6 @@ libKF5Syndication.so.5 libkf5syndication5 #MINVER#
  _ZN11Syndication3RDF8PropertyD1Ev@Base 15.07.90
  _ZN11Syndication3RDF8PropertyD2Ev@Base 15.07.90
  _ZN11Syndication3RDF8RDFVocab12namespaceURIEv@Base 15.07.90
- _ZN11Syndication3RDF8RDFVocab15RDFVocabPrivate5sSelfE@Base 15.07.90
  _ZN11Syndication3RDF8RDFVocab2liEv@Base 15.07.90
  _ZN11Syndication3RDF8RDFVocab3seqEv@Base 15.07.90
  _ZN11Syndication3RDF8RDFVocab4selfEv@Base 15.07.90
