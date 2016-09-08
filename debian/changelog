@@ -1,6 +1,6 @@
-syndication (16.08.0-1~2.gbp05483b) UNRELEASED; urgency=medium
+syndication (16.08.1-1~1.gbpce1ae1) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @05483bfbb59c23908c96daec3efe20161e7e355f **
+  ** SNAPSHOT build @ce1ae1839145188893a558681015ffba884d5c7c **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @bc9450b61f8c5b7d2440eae5269dc9dedeb99075 **
@@ -10,8 +10,9 @@ syndication (16.08.0-1~2.gbp05483b) UNRELEASED; urgency=medium
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
   * Update symbols files
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 30 Aug 2016 12:50:01 +0200
+ -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 22:05:38 +0200
 
 syndication (16.04.2-1) unstable; urgency=medium
 
