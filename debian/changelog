@@ -1,3 +1,69 @@
+syndication (17.08.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 17 Aug 2017 09:45:01 +0000
+
+syndication (17.04.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 12 Jul 2017 10:27:45 +0000
+
+syndication (17.04.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 07 Jun 2017 12:25:33 +0000
+
+syndication (17.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 11 May 2017 18:30:19 +0000
+
+syndication (17.04.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 19 Apr 2017 13:07:36 +0000
+
+syndication (16.12.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Mar 2017 13:52:22 +0000
+
+syndication (16.12.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Feb 2017 17:05:54 +0000
+
+syndication (16.12.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 11 Jan 2017 13:27:39 +0000
+
+syndication (16.12.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 14 Dec 2016 16:34:15 +0000
+
+syndication (16.08.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 21 Nov 2016 13:55:23 +0000
+
+syndication (16.08.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 14 Oct 2016 13:42:02 +0000
+
 syndication (16.08.1-1~1.gbpce1ae1) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @ce1ae1839145188893a558681015ffba884d5c7c **
@@ -13,6 +79,24 @@ syndication (16.08.1-1~1.gbpce1ae1) UNRELEASED; urgency=medium
   * UNRELEASED
 
  -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 22:05:38 +0200
+
+syndication (16.08.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 16 Sep 2016 13:08:58 +0000
+
+syndication (16.08.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 17 Aug 2016 11:51:15 +0000
+
+syndication (16.07.90-0) UNRELEASED; urgency=medium
+
+  * Neon build
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 11 Aug 2016 17:22:26 +0100
 
 syndication (16.04.2-1) unstable; urgency=medium
 
