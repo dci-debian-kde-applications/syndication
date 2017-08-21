@@ -1,6 +1,6 @@
 Tests: testsuite
 Depends: @, @builddeps@, build-essential,
-         dbus-x11
+         dbus
 Restrictions: build-needed
 
 Tests: acc
