@@ -26,6 +26,7 @@ Description: parser library for RSS and Atom feeds - development files
  not need to distinguish between feed formats.
  .
  This package contains the development files.
+Breaks: libkf5blog-dev (<< 4:17.08)
 
 Package: libkf5syndication5
 Architecture: any
@@ -37,3 +38,4 @@ Description: parser library for RSS and Atom feeds
  not need to distinguish between feed formats.
  .
  This package is part of the KDE Development Platform PIM libraries module.
+Breaks: akregator (<< 4:17.08), libkf5blog5 (<< 4:17.08)
