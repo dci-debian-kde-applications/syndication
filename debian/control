@@ -18,7 +18,7 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/syndication.git
 Package: libkf5syndication-dev
 Section: libdevel
 Architecture: any
-Multi-Arch: foreign
+Multi-Arch: same
 Depends: libkf5syndication5 (= ${binary:Version}), qtbase5-dev, ${misc:Depends}
 Description: parser library for RSS and Atom feeds - development files
  Syndication is a parser library for RSS and Atom feeds. It offers a unified,
