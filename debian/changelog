@@ -4,6 +4,7 @@ syndication (17.12.1-0) UNRELEASED; urgency=medium
   * New upstream release (17.12.1).
   * Update copyright file.
   * Update build-deps and deps with the info from cmake
+  * enable build tests.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 07 Feb 2018 16:17:11 +0100
 
