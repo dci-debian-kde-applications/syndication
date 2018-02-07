@@ -1,5 +1,8 @@
 syndication (17.12.1-0) UNRELEASED; urgency=medium
 
+  [ Sandro Knauß ]
+  * New upstream release (17.12.1).
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 07 Feb 2018 16:17:11 +0100
 
 syndication (17.08.3-1) unstable; urgency=medium
